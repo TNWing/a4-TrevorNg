@@ -1,15 +1,13 @@
 ## Maze Generator Beta 1.2
 
-## Summary
-This application is a simple maze generator. Giuen a set of parameters, it creates a rectangular tile-based maze. While the maze isn't currently
-interactable.
-When the player presses play, they can enter a maze.
-Controls:
-WASD: Move
-Space: Flash. You recover flashes slowly as you play.
-NOTE: A player can only make an input action every 1.1 seconds.
-In the maze, there is something also walking around. Be careful, as too much activity while you are near it will anger it.
-You might be able to see it with your flashes.
+## Summary and Goal
+This application is a simple maze generator. Giuen a set of parameters, it creates a rectangular tile-based maze.
+When the player presses play, they can enter the maze currently displayed.
+
+My goal for this assignment was to expand upon the a3 assignment, by making the maze actually playable. In particular,
+this assignment was mainly used to finish the foundation necessary for future work on this project.
+
+NOTE: A player can only make an input action every 1.1 seconds. Any other action will be dropped
 
 ## Challenges
 -Code Refactoring (Cleaning up Code and Preventing Circular Dependency)
