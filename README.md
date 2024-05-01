@@ -8,7 +8,8 @@ My goal for this assignment was to expand upon the a3 assignment, by making the 
 this assignment was mainly used to finish the foundation necessary for future work on this project.
 
 NOTE: A player can only make an input action every 1.1 seconds. Any other action will be dropped
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/TNWing/a4-TrevorNg/blob/main/imgs/flashGif.gif)
+A player using a flash to reveal their surroundings.
 ## Challenges
 -Code Refactoring (Cleaning up Code and Preventing Circular Dependency)
 I wanted to separate some of my code into separate files in order to make it cleaner. However, just moving my code into a separate file would cause circular dependency issues due to my imports.
